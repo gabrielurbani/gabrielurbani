@@ -1,8 +1,11 @@
-<h1>Hi 👋, I'm Gabriel </h1>
+<h1 align="center">Hi 👋, I'm Gabriel </h1>
 
-Developer | Ruby on Rails Enthusiast | Performance Artist
+<h3 align="center"> Developer | Ruby on Rails Enthusiast | Performance Artist </h3>
+</br>
 
-Passionate about building robust and scalable web applications using Ruby on Rails. With a strong foundation in programming and a creative spirit, I enjoy combining technology with the performing arts.
+<p align="center">⚡ Passionate about building robust and scalable web applications using Ruby on Rails. 💎
+With a strong foundation in programming and a creative spirit, 
+I enjoy combining technology with the performing arts.</p>
 
 ### 🛠 Tech Stack
 
