@@ -11,6 +11,7 @@ I enjoy combining technology with the performing arts. 🕺</p>
 <h3 align="center"> 🛠 Tech Stack </h3>
 
 <div align="center">
+  
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
