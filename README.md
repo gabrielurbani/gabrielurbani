@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel </h1>
-<h3 align="center"> Developer | Ruby on Rails Enthusiast | Performance Artist </h3>
+<h3 align="center"> Agnostic Developer | Ruby on Rails Enthusiast | Performance Artist </h3>
 </br>
 <p align="center">⚡ Passionate about building robust and scalable web applications using Ruby on Rails. 💎
 With a strong foundation in programming and a creative spirit 💻, 
